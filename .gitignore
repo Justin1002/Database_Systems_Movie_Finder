@@ -1,0 +1,5 @@
+/client/DB/config.py
+**/__pycache__/
+/server/justinloadData.sql
+/client/tests/unit/database_unittest.pyc
+/client/DB/moviefinder.sql

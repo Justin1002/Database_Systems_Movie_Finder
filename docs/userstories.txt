@@ -1,0 +1,13 @@
+
+
+As a user, I should be able to find a movie based on my favorite actor and actresses, or a combination thereof to see if they star in a movie together.
+
+As a user, I should be able to find a movie based on average ratings on imdb/rotten tomatoes, genre, running time, title, and language.
+
+As a user, I should be able to favorite movies or add them to my watched list.
+
+As a user, I should be able to review movies that I have watched.
+
+As a user, I should be able to determine if the movie is available on a popular streaming platform.
+
+As a user, I want to be able to find recommendations based on genres.
