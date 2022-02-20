@@ -1,8 +1,13 @@
 # Movie Finder
 # Project by Justin Ly and Yakov Yuzhakov
 
+## Introduction
+Have you ever watched a movie, and noticed great chemistry between the actors/actresses ? Did their
+performance leave you wanting more? Everyone can relate to nights spent scrolling through Netflix,
+trying to find something to watch. Fear not! Movie Finder is a movie query application that can help match you to perfect movies for your night in! You can query movies by characteristics such as running time, actor/actress combinations and much more! 
 
 ## Getting started
+
 ### For the database (mySQL version 8.0.27) 
 1. replace the file header `/home/justin1002/Desktop/University of Waterloo/Semester 1/ECE 656/Project/movie-finder-project/` with the location of your local repository
 2. run the command `mysql --local-infile -u [USERNAME] -p < loadData.sql in the server folder 
